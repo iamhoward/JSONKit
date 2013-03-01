@@ -9,7 +9,7 @@ Copyright &copy; 2011, John Engelhart.
 
   Parsing  |  Serializing
 :---------:|:-------------:
-<img src="https://raw.github.com/Kelp404/JSONKit/master/_imgs/00.png" width="350" height="185" alt="Deserialize from JSON" /> | <img src="https://raw.github.com/Kelp404/JSONKit/master/_imgs/01.png" width="350" height="185" alt="Serialize to JSON" />
+<img src="https://github.com/Kelp404/JSONKit/blob/master/_images/00.png" width="350" height="185" alt="Deserialize from JSON" /> | <img src="https://github.com/Kelp404/JSONKit/blob/master/_images/01.png" width="350" height="185" alt="Serialize to JSON" />
 *23% Faster than Binary* <code><em>.plist</em></code>*&thinsp;!* | *549% Faster than Binary* <code><em>.plist</em></code>*&thinsp;!*
 
 * Benchmarking was performed on a MacBook Pro with a 2.66GHz Core 2.
